@@ -1,0 +1,12 @@
+default:
+  host: HOST
+  port: PORT
+  sunlight_key: SUNLIGHT_API_KEY
+development:
+  database: DATABSE
+  username: USERNAME
+  password: PASSWORD
+test:
+  database: TEST_DATABSE
+  username: USERNAME
+  password: PASSWORD

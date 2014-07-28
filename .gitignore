@@ -1,0 +1,7 @@
+config/global/connections.yml
+
+# OS X
+.DS_Store
+
+# Vim
+.*.sw[a-z]
